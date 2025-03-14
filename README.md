@@ -16,7 +16,7 @@ Soal pra assestment kecerdasan buatan:
    * Dana QRIS berasal dari client atau calon client yang akan menjadi tempat implementasi chatbot atau teknologi ai lainnya. Tempat studi kasus wajib terdaftar di Google Maps.
    * Dana WonPay berasal dari [mining](https://www.do.my.id/mining/) di infrastruktur client atau tim pengembang.
    * Besaran tidak di tentukan, tetapi besaran ini menjadi bayangan berapa biaya untuk efisiensi keuangan dalam implementasi sistem.
-   * Jumlah client implementor minimal 1 orang satu client, disarankan lebih agar nilai lebih maksimal.
+   * Jumlah client minimal 1 orang satu client, disarankan lebih agar nilai lebih maksimal.
    * Untuk jumlah besar fee nya jika menggunakan WonPay diatur menjadi 0.0226 dengan cara seperti ini [Fee](https://www.do.my.id/fee-transaction/)
 
 ## Helpdesk

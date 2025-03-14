@@ -6,7 +6,7 @@ Dibutuhkan prasyarat minimum untuk mengambil masing-masing kelas.
 
 Soal pra assestment kecerdasan buatan:
 1. Membuat buku dasar-dasar fundamental tentang teknologi terbaru AI atau implementasi AI atau contoh penggunaan implementasi alpikasi AI. Buku minimal 50 halaman isi diluar dari cover, kata pengantar, daftar isi, pustaka dll. Sudah di submit ke Bukupedia. Gunakan canva dalam membuat buku agar bisa maksimal ilustrasinya. 1 Buku maksimal 5 penulis boleh melibatkan dosen.
-2. Melakukan pendaftaran di [do.my.id](https://www.do.my.id/) mengisi nama sponsor dengan nama orang tua atau wali dan wa sponsor dengan wa orang tua atau wali
+2. Melakukan pendaftaran di [do.my.id](https://www.do.my.id/) mengisi nama sponsor dengan nama orang tua atau wali dan wa sponsor dengan wa orang tua atau wali untuk reguler. Jika kelas karwayan bisa diisi atasan.
 3. Metode belajar menggunakan teknik pomodoro, pastikan menjalankan [pomokit](http://www.do.my.id/pomokit/) ketika laptop digunakan untuk mengerjakan asesment ini, dalam seminggu maksimal 7 cycle untuk nilai maksimal.
 4. Untuk working balance dan mental healt yang sehat, pastikan 2 kali dalam seminggu minimal lari/jalan sebanyak 3 KM di rekap dengan strava di share ke bot domyikado. [Tata Cara](https://www.do.my.id/mentalhealt-strava/)
 5. Melakukan [test IQ](http://www.do.my.id/testiq/)
